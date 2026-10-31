@@ -7,32 +7,7 @@
       "maxId": 1
     }
   },
-  "users": [
-    {
-      "chatId": "-1004448844967",
-      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
-      "userId": "8081103145",
-      "username": "kayyz123",
-      "name": "Kanzz",
-      "channelId": "120363412530394100@newsletter",
-      "status": "active",
-      "registeredAt": "2026-10-30T22:37:27.518Z",
-      "registeredDate": "2026-10-31",
-      "lastAddpoin": null
-    },
-    {
-      "chatId": "-1004448844967",
-      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
-      "userId": "6960847104",
-      "username": "Tytost",
-      "name": "Wahyu",
-      "channelId": "6960847104@newsletter",
-      "status": "active",
-      "registeredAt": "2026-10-31T10:17:26.579Z",
-      "registeredDate": "2026-10-31",
-      "lastAddpoin": null
-    }
-  ],
+  "users": [],
   "owners": [],
   "lazy": [],
   "appeals": []
