@@ -7,7 +7,20 @@
       "maxId": 1
     }
   },
-  "users": [],
+  "users": [
+    {
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "userId": "8422000179",
+      "username": "Xazurastore",
+      "name": "𝗝𝗕 | 𝗫𝗔𝗭𝗨𝗥𝗔",
+      "channelId": "120363431615248096@newsletter",
+      "status": "active",
+      "registeredAt": "2026-10-31T10:21:35.838Z",
+      "registeredDate": "2026-10-31",
+      "lastAddpoin": null
+    }
+  ],
   "owners": [],
   "lazy": [],
   "appeals": []
