@@ -27,10 +27,13 @@
       "username": "rya_223",
       "name": "stvrlightt_",
       "channelId": "120363431927959272@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-10-31T10:25:51.556Z",
       "registeredDate": "2026-10-31",
-      "lastAddpoin": null
+      "lastAddpoin": null,
+      "deletedAt": "2026-11-03T03:12:13.573Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 2 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -51,10 +54,13 @@
       "username": "Zidan_113",
       "name": "DANZZ4YOU",
       "channelId": "120363408488293322@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-10-31T11:18:51.961Z",
       "registeredDate": "2026-10-31",
-      "lastAddpoin": null
+      "lastAddpoin": null,
+      "deletedAt": "2026-11-03T03:12:13.574Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 2 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -142,6 +148,25 @@
     }
   ],
   "owners": [],
-  "lazy": [],
+  "lazy": [
+    {
+      "userId": "8621320329",
+      "username": "rya_223",
+      "name": "stvrlightt_",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-03",
+      "reason": "Tidak di-addpoin 2 hari"
+    },
+    {
+      "userId": "8933891473",
+      "username": "Zidan_113",
+      "name": "DANZZ4YOU",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-03",
+      "reason": "Tidak di-addpoin 2 hari"
+    }
+  ],
   "appeals": []
 }
