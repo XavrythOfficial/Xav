@@ -360,5 +360,18 @@
       "reason": "Tidak di-addpoin 2 hari"
     }
   ],
-  "appeals": []
+  "appeals": [
+    {
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "userId": "8932437271",
+      "username": "FanzzModzz",
+      "name": "『#RVX』#𝐅𝐚𝐧𝐳𝐳𝐌𝐨𝐝𝐳𝐳",
+      "ids": [
+        "120363291947332826@newsletter"
+      ],
+      "from": "group",
+      "at": "2026-11-03T22:12:43.629Z"
+    }
+  ]
 }
