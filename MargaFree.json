@@ -15,10 +15,13 @@
       "username": "Xazurastore",
       "name": "𝗝𝗕 | 𝗫𝗔𝗭𝗨𝗥𝗔",
       "channelId": "120363431615248096@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-10-31T10:21:35.838Z",
       "registeredDate": "2026-10-31",
-      "lastAddpoin": "2026-11-02"
+      "lastAddpoin": "2026-11-02",
+      "deletedAt": "2026-11-04T06:04:50.279Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -382,6 +385,15 @@
       "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
       "since": "2026-11-04",
       "reason": "Tidak di-addpoin 2 hari"
+    },
+    {
+      "userId": "8422000179",
+      "username": "Xazurastore",
+      "name": "𝗝𝗕 | 𝗫𝗔𝗭𝗨𝗥𝗔",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-04",
+      "reason": "Tidak di-addpoin 1 hari"
     }
   ],
   "appeals": [
