@@ -8,7 +8,20 @@
       "mode": "id"
     }
   },
-  "users": [],
+  "users": [
+    {
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "userId": "8933891473",
+      "username": "Zidan_113",
+      "name": "DANZZ4YOU",
+      "channelId": "120363433659584089@newsletter",
+      "status": "active",
+      "registeredAt": "2026-11-05T08:50:57.085Z",
+      "registeredDate": "2026-11-05",
+      "lastAddpoin": null
+    }
+  ],
   "owners": [],
   "lazy": [],
   "appeals": []
