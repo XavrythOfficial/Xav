@@ -28,10 +28,13 @@
       "username": "RexSadComeback",
       "name": "Rex? Let Me Comeback",
       "channelId": "120363431634641037@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-05T12:45:49.459Z",
       "registeredDate": "2026-11-05",
-      "lastAddpoin": "2026-11-06"
+      "lastAddpoin": "2026-11-06",
+      "deletedAt": "2026-11-08T10:29:59.315Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -52,10 +55,13 @@
       "username": "grizzlysesion",
       "name": "grizzly",
       "channelId": "120363437476877707@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-06T03:43:59.040Z",
       "registeredDate": "2026-11-06",
-      "lastAddpoin": null
+      "lastAddpoin": null,
+      "deletedAt": "2026-11-08T10:29:59.315Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -64,10 +70,13 @@
       "username": "RexSadComeback",
       "name": "Rex? Let Me Comeback",
       "channelId": "120363413152580946@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-06T05:45:00.690Z",
       "registeredDate": "2026-11-06",
-      "lastAddpoin": null
+      "lastAddpoin": null,
+      "deletedAt": "2026-11-08T10:29:59.316Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -124,10 +133,13 @@
       "username": "Ihsannihh",
       "name": "IHSAN TEAM",
       "channelId": "120363426631025377@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-06T15:33:29.750Z",
       "registeredDate": "2026-11-06",
-      "lastAddpoin": null
+      "lastAddpoin": null,
+      "deletedAt": "2026-11-08T10:29:59.316Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -136,10 +148,13 @@
       "username": "Ihsannihh",
       "name": "IHSAN TEAM",
       "channelId": "120363430933150154@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-06T15:33:29.750Z",
       "registeredDate": "2026-11-06",
-      "lastAddpoin": null
+      "lastAddpoin": null,
+      "deletedAt": "2026-11-08T10:29:59.316Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -215,6 +230,34 @@
     }
   ],
   "owners": [],
-  "lazy": [],
+  "lazy": [
+    {
+      "userId": "8935419797",
+      "username": "RexSadComeback",
+      "name": "Rex? Let Me Comeback",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-08",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8892146020",
+      "username": "grizzlysesion",
+      "name": "grizzly",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-08",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8970100010",
+      "username": "Ihsannihh",
+      "name": "IHSAN TEAM",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-08",
+      "reason": "Tidak di-addpoin 1 hari"
+    }
+  ],
   "appeals": []
 }
