@@ -163,10 +163,13 @@
       "username": "RanzOffc",
       "name": "RanzOffc OPEN MURBUG",
       "channelId": "120363430349872929@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-07T08:33:16.066Z",
       "registeredDate": "2026-11-07",
-      "lastAddpoin": "2026-11-07"
+      "lastAddpoin": "2026-11-07",
+      "deletedAt": "2026-11-08T17:28:59.650Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -175,10 +178,13 @@
       "username": "RanzOffc",
       "name": "RanzOffc OPEN MURBUG",
       "channelId": "120363414260860806@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-07T08:33:16.066Z",
       "registeredDate": "2026-11-07",
-      "lastAddpoin": "2026-11-07"
+      "lastAddpoin": "2026-11-07",
+      "deletedAt": "2026-11-08T17:28:59.651Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -187,10 +193,13 @@
       "username": "HAMZASETOR",
       "name": "hamza",
       "channelId": "120363406917692825@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-07T15:21:44.458Z",
       "registeredDate": "2026-11-07",
-      "lastAddpoin": "2026-11-07"
+      "lastAddpoin": "2026-11-07",
+      "deletedAt": "2026-11-08T17:28:59.651Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -199,10 +208,13 @@
       "username": "rorzyfriend44",
       "name": "Zaa",
       "channelId": "120363429640876088@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-07T15:39:04.950Z",
       "registeredDate": "2026-11-07",
-      "lastAddpoin": null
+      "lastAddpoin": null,
+      "deletedAt": "2026-11-08T17:28:59.651Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -211,10 +223,13 @@
       "username": "Nutzz435",
       "name": "Nutz",
       "channelId": "120363407837339186@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-07T16:04:36.600Z",
       "registeredDate": "2026-11-07",
-      "lastAddpoin": "2026-11-07"
+      "lastAddpoin": "2026-11-07",
+      "deletedAt": "2026-11-08T17:28:59.651Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -256,6 +271,42 @@
       "chatId": "-1004448844967",
       "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
       "since": "2026-11-08",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "6950213865",
+      "username": "RanzOffc",
+      "name": "RanzOffc OPEN MURBUG",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-09",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "7486891049",
+      "username": "HAMZASETOR",
+      "name": "hamza",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-09",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "9150133031",
+      "username": "rorzyfriend44",
+      "name": "Zaa",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-09",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8308755418",
+      "username": "Nutzz435",
+      "name": "Nutz",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-09",
       "reason": "Tidak di-addpoin 1 hari"
     }
   ],
