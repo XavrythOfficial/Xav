@@ -376,5 +376,19 @@
       "reason": "Tidak di-addpoin 1 hari"
     }
   ],
-  "appeals": []
+  "appeals": [
+    {
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "userId": "8149928508",
+      "username": "FanzzTzy11",
+      "name": "⏤͟͟͞͞",
+      "ids": [
+        "120363430514470984@newsletter",
+        "120363433791989945@newsletter"
+      ],
+      "from": "group",
+      "at": "2026-11-10T13:26:59.004Z"
+    }
+  ]
 }
