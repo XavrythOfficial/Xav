@@ -91,10 +91,13 @@
       "username": "RShOpXzly",
       "name": "𝕽𝕾𝖍𝕺𝖕𝖟𝖃𝖑𝖞",
       "channelId": "120363431799870716@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-06T09:56:46.386Z",
       "registeredDate": "2026-11-06",
-      "lastAddpoin": "2026-11-09"
+      "lastAddpoin": "2026-11-09",
+      "deletedAt": "2026-11-10T17:22:46.740Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -103,10 +106,13 @@
       "username": "RShOpXzly",
       "name": "𝕽𝕾𝖍𝕺𝖕𝖟𝖃𝖑𝖞",
       "channelId": "120363424095342193@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-06T09:58:49.272Z",
       "registeredDate": "2026-11-06",
-      "lastAddpoin": "2026-11-09"
+      "lastAddpoin": "2026-11-09",
+      "deletedAt": "2026-11-10T17:22:46.740Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -265,10 +271,13 @@
       "username": "Noxx4Malazs",
       "name": "𝐄𝐕𝐑 || />𝘕𝘰𝘹𝙓𝚁𝚎𝚟𝚢𝚗𝚂? ˣ (⩇⩇:⩇⩇)𝚃𝚆𝙾 ☄︎",
       "channelId": "120363410540161177@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-09T05:00:31.210Z",
       "registeredDate": "2026-11-09",
-      "lastAddpoin": "2026-11-09"
+      "lastAddpoin": "2026-11-09",
+      "deletedAt": "2026-11-10T17:22:46.740Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -373,6 +382,24 @@
       "chatId": "-1004448844967",
       "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
       "since": "2026-11-10",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8296725129",
+      "username": "RShOpXzly",
+      "name": "𝕽𝕾𝖍𝕺𝖕𝖟𝖃𝖑𝖞",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-11",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8691754867",
+      "username": "Noxx4Malazs",
+      "name": "𝐄𝐕𝐑 || />𝘕𝘰𝘹𝙓𝚁𝚎𝚟𝚢𝚗𝚂? ˣ (⩇⩇:⩇⩇)𝚃𝚆𝙾 ☄︎",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-11",
       "reason": "Tidak di-addpoin 1 hari"
     }
   ],
