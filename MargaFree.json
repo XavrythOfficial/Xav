@@ -58,10 +58,13 @@
       "username": "grizzlysesion",
       "name": "𝐆 𝐑 𝐈 𝐙 𝐙 𝐋 𝐘 | 𝗕𝗼𝗻𝘁𝗲𝗻!𝘇",
       "channelId": "120363411158530397@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-15T14:29:19.516Z",
       "registeredDate": "2026-11-15",
-      "lastAddpoin": "2026-11-16"
+      "lastAddpoin": "2026-11-16",
+      "deletedAt": "2026-11-17T17:27:53.073Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     },
     {
       "chatId": "-1004448844967",
@@ -70,10 +73,13 @@
       "username": "FanzzModzz",
       "name": "『#RVX』#𝐅𝐚𝐧𝐳𝐳𝐌𝐨𝐝𝐳𝐳",
       "channelId": "120363291947332826@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-15T14:43:49.672Z",
       "registeredDate": "2026-11-15",
-      "lastAddpoin": "2026-11-16"
+      "lastAddpoin": "2026-11-16",
+      "deletedAt": "2026-11-17T17:27:53.073Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     }
   ],
   "owners": [],
@@ -94,6 +100,24 @@
       "chatId": "-1004448844967",
       "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
       "since": "2026-11-17",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8892146020",
+      "username": "grizzlysesion",
+      "name": "𝐆 𝐑 𝐈 𝐙 𝐙 𝐋 𝐘 | 𝗕𝗼𝗻𝘁𝗲𝗻!𝘇",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-18",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8932437271",
+      "username": "FanzzModzz",
+      "name": "『#RVX』#𝐅𝐚𝐧𝐳𝐳𝐌𝐨𝐝𝐳𝐳",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-18",
       "reason": "Tidak di-addpoin 1 hari"
     }
   ],
