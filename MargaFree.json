@@ -88,10 +88,13 @@
       "username": "ramzoffc05",
       "name": "𝚁𝚊𝚖𝚣𝙾𝚏𝚏𝚌 || 𝙴𝚓𝚊𝚊𝚒𝙿𝚛𝚘𝚓𝚎𝚌𝚝🜲",
       "channelId": "120363413378019106@newsletter",
-      "status": "active",
+      "status": "deleted",
       "registeredAt": "2026-11-20T03:24:56.236Z",
       "registeredDate": "2026-11-20",
-      "lastAddpoin": "2026-11-20"
+      "lastAddpoin": "2026-11-20",
+      "deletedAt": "2026-11-21T17:14:14.985Z",
+      "deleteMode": "id_only",
+      "deleteReason": "Tidak di-addpoin 1 hari"
     }
   ],
   "owners": [],
@@ -130,6 +133,15 @@
       "chatId": "-1004448844967",
       "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
       "since": "2026-11-18",
+      "reason": "Tidak di-addpoin 1 hari"
+    },
+    {
+      "userId": "8664404861",
+      "username": "ramzoffc05",
+      "name": "𝚁𝚊𝚖𝚣𝙾𝚏𝚏𝚌 || 𝙴𝚓𝚊𝚊𝚒𝙿𝚛𝚘𝚓𝚎𝚌𝚝🜲",
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "since": "2026-11-22",
       "reason": "Tidak di-addpoin 1 hari"
     }
   ],
