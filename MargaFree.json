@@ -8,7 +8,20 @@
       "mode": "id"
     }
   },
-  "users": [],
+  "users": [
+    {
+      "chatId": "-1004448844967",
+      "chatTitle": "𝙈𝙖𝙧𝙜𝙖 𝙋𝙪𝙨𝙝 𝘾𝙝 𝙓𝙖𝙫𝙧𝙮𝙩𝙝",
+      "userId": "7956370641",
+      "username": "xydittskyee",
+      "name": "友 xydittskyee🇯🇵",
+      "channelId": "120363432837013416@newsletter",
+      "status": "active",
+      "registeredAt": "2026-11-25T07:03:54.663Z",
+      "registeredDate": "2026-11-25",
+      "lastAddpoin": null
+    }
+  ],
   "owners": [],
   "lazy": [],
   "appeals": []
